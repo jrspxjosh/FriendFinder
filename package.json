@@ -11,15 +11,15 @@
     "type": "git",
     "url": "git+https://github.com/IshaniAmin/FriendFinder.git"
   },
-  "author": "Ishani Amin",
+  "author": "Joshua R. Serrano-Patron",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IshaniAmin/FriendFinder/issues"
+    "url": "https://github.com/jrspxjosh/FriendFinder/issues"
   },
-  "homepage": "https://github.com/IshaniAmin/FriendFinder#readme",
+  "homepage": "https://github.com/jrspxjosh/FriendFinder#readme",
   "dependencies": {
-    "body-parser": "^1.16.1",
-    "express": "^4.14.1",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
     "path": "^0.12.7"
   }
 }
